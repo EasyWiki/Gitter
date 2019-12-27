@@ -26,6 +26,6 @@
     "@types/node": "^13.1.1"
   },
   "dependencies": {
-    "betterfilesystem": "0.0.1"
+    "@easywiki/betterfilesystem": "0.0.1"
   }
 }
