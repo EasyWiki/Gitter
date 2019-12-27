@@ -1,0 +1,29 @@
+{
+  "name": "@easywiki/gitter",
+  "version": "0.0.1",
+  "description": "A git cloner module for EasyWiki.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WatcherWhale/Gitter.git"
+  },
+  "keywords": [
+    "EasyWiki",
+    "Git"
+  ],
+  "author": "EasyWiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WatcherWhale/Gitter/issues"
+  },
+  "homepage": "https://github.com/WatcherWhale/Gitter#readme",
+  "devDependencies": {
+    "@types/node": "^13.1.1"
+  },
+  "dependencies": {
+    "betterfilesystem": "0.0.1"
+  }
+}
