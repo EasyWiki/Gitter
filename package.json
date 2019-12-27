@@ -4,7 +4,9 @@
   "description": "A git cloner module for EasyWiki.",
   "main": "./dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "watch": "tsc -w",
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
